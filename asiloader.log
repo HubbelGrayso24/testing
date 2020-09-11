@@ -1,0 +1,16 @@
+// GTA V ASI LOADER (build May  2 2015)
+//     (C) Alexander Blade 2015
+LIB: "C:\WINDOWS\system32\dinput8.dll" => 00007FFC20650000
+API: "DirectInput8Create" => 00007FFC20652230
+API: "DllCanUnloadNow" => 00007FFC20665220
+API: "DllGetClassObject" => 00007FFC20665330
+API: "DllRegisterServer" => 00007FFC20674740
+API: "DllUnregisterServer" => 00007FFC206749C0
+LOADER: Loading *.asi plugins
+ASI: Loading "D:\Grayson\Epic Games\GTAV\GU MOD 1.5.asi"
+     "GU MOD 1.5.asi" => 00007FFC25B70000
+ASI: Loading "D:\Grayson\Epic Games\GTAV\InvisibilityCloak.asi"
+     "InvisibilityCloak.asi" => 00007FFC33600000
+ASI: Loading "D:\Grayson\Epic Games\GTAV\ScriptHookVDotNet.asi"
+     "ScriptHookVDotNet.asi" => 00007FFC2ADC0000
+LOADER: Finished loading *.asi plugins

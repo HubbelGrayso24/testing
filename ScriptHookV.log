@@ -1,0 +1,27 @@
+// GTA V SCRIPT HOOK (build May 26 2020, v1.0.1868.4)
+//     (C) Alexander Blade 2015-2020
+[12:58:26] INIT: Started
+[12:58:26] INIT: Success, game version is VER_1_0_1868_4_EGS
+[12:58:26] INIT: Registering script 'GU MOD 1.5.asi' (0x00007FFC25B7EFB0)
+[12:58:26] INIT: Registering script 'InvisibilityCloak.asi' (0x00007FFC33601870)
+[12:58:26] INIT: Registering script 'ScriptHookVDotNet.asi' (0x00007FFC2ADC1480)
+[12:58:41] INIT: Pool 1 extended
+[12:58:41] INIT: Pool 2 extended
+[12:58:41] INIT: Pool 3 extended
+[12:58:41] INIT: Pool 4 extended
+[12:58:46] INIT: GtaThread collection size 189
+[12:58:46] INIT: wnd proc 0x00000000FFFF17BD
+[12:58:46] INIT: IDXGISwapChain 0x00007FFC366FB438 (0x00007FFC36664F80)
+[12:58:46] INIT: IDXGISwapChain set
+[12:58:46] INIT: DX init started
+[12:58:46] INIT: DX feature level B000
+[12:58:46] INIT: DX init succeeded
+[13:03:23] CORE: Requesting thread creation
+[13:03:23] CORE: Creating threads
+[13:03:25] CORE: Started control thread, id 31 active 1
+[13:03:25] CORE: Started thread 'GU MOD 1.5.asi' (0x00007FFC25B7EFB0), id 32 active 1
+[13:03:25] CORE: Started thread 'InvisibilityCloak.asi' (0x00007FFC33601870), id 33 active 1
+[13:03:25] CORE: Started thread 'ScriptHookVDotNet.asi' (0x00007FFC2ADC1480), id 34 active 1
+[13:03:25] CORE: Launching main() for 'GU MOD 1.5.asi' (0x00007FFC25B7EFB0), id 32
+[13:03:25] CORE: Launching main() for 'InvisibilityCloak.asi' (0x00007FFC33601870), id 33
+[13:03:25] CORE: Launching main() for 'ScriptHookVDotNet.asi' (0x00007FFC2ADC1480), id 34
